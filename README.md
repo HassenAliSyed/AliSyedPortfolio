@@ -13,8 +13,23 @@ Data was given to me by infinite code
 
 ![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/1.png)
 
+![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/2.png)
 
+![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/3.png)
 
+![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/4.png)
+
+![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/5.png)
+
+![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/6.png)
+
+![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/7.png)
+
+![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/8.png)
+
+![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/9.png)
+
+![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/10.png)
 
 Data Analysis Using SQL
 
