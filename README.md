@@ -15,13 +15,13 @@ Data was given to me by infinite code
 
 ![](/boat/2.png)
 
-![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/3.png)
+![](/3.png)
 
-![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/4.png)
+![](/4.png)
 
-![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/5.png)
+![](/5.png)
 
-![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/6.png)
+![](/6.png)
 
 ![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/7.png)
 
