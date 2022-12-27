@@ -1,7 +1,7 @@
  # AliSyedPortfolio
 
 
-# [Project 1: Regional departmental sales store recommendations]
+# [Project 1: Regional departmental sales store recommendations](https://github.com/HassenAliSyed/AliSyedPortfolio)
 
 This is a project that I did during my internship
 
