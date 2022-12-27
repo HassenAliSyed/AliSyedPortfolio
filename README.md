@@ -13,7 +13,7 @@ Data was given to me by infinite code
 
 ![](/boat/1.png)
 
-![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/2.png)
+![](/boat/2.png)
 
 ![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/3.png)
 
