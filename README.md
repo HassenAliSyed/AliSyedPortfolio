@@ -23,13 +23,13 @@ Data was given to me by infinite code
 
 ![](/boat/6.png)
 
-![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/7.png)
+![](/boat/7.png)
 
-![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/8.png)
+![](/boat/8.png)
 
-![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/9.png)
+![](/boat/9.png)
 
-![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/10.png)
+![](/boat/10.png)
 
 Data Analysis Using SQL
 
