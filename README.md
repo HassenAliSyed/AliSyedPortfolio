@@ -56,6 +56,10 @@ Show total revenue in year 2020 in Chennai
 ![](/boat/10.png)
 ![](/boat/Screenshot%202022-12-30%20at%2001.43.47.png)
 
+
+# [Project 2: Covid deaths by country](https://github.com/HassenAliSyed/AliSyedPortfolio)
+
+
 Data Analysis Using SQL
 
 Show all customer records
