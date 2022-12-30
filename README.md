@@ -17,6 +17,8 @@ Data was given to me by infinite code
 
 ![](/boat/2.png)
 
+![](/Screenshot 2022-12-30 at 00.46.32.png)
+
 ![](/boat/3.png)
 
 ![](/boat/4.png)
