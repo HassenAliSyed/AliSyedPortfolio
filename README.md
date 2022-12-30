@@ -17,30 +17,31 @@ Data was given to me by infinite code
 
 ![](/boat/2.png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.46.32.png
+![](/boat/Screenshot%202022-12-30%20at%2000.46.32.png)
 
 ![](/boat/3.png)
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.46.45.png
+![](/boat/Screenshot%202022-12-30%20at%2000.46.45.png)
 
 ![](/boat/4.png)
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.47.02.png
+![](/boat/Screenshot%202022-12-30%20at%2000.47.02.png)
 
 ![](/boat/5.png)
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.47.10.png
+![](/boat/Screenshot%202022-12-30%20at%2000.47.10.png)
 
 ![](/boat/6.png)
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.47.18.png
+![](/boat/Screenshot%202022-12-30%20at%2000.47.18.png)
 
 ![](/boat/7.png)
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.47.25.png
+![](/boat/Screenshot%202022-12-30%20at%2000.47.25.png)
 
 ![](/boat/8.png)
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.47.31.png
+![](/boat/Screenshot%202022-12-30%20at%2000.47.31.png)
 
 ![](/boat/9.png)
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.47.41.png
+![](/boat/Screenshot%202022-12-30%20at%2000.47.41.png)
 
 ![](/boat/10.png)
+![](/boat/Screenshot%202022-12-30%20at%2001.43.47.png)
 
 Data Analysis Using SQL
 
