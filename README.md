@@ -10,9 +10,7 @@ Data was given to me by infinite code
 
 Show all customer records
 
-![](/boat/1.png)
-
-![](/boat/Screenshot%202022-12-30%20at%2000.46.10.png)
+![](/boat/1.png) ![](/boat/Screenshot%202022-12-30%20at%2000.46.10.png)
 
 Show total number of customers
 
