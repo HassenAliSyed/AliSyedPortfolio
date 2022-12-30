@@ -61,30 +61,30 @@ Show total revenue in year 2020 in Chennai
 
 ![](/boat/1..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/2..png
+![](/boat/2..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/3..png
+![](/boat/3..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/4..png
+![](/boat/4..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/5..png
+![](/boat/5..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/6..png
+![](boat/6..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/7..png
+![](boat/7..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/8..png
+![](/boat/8..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/9..png
+![](/boat/9..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/10..png
+![](/boat/10..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/11..png
+![](/boat/11..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/12..png
+![](/boat/12..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/13..png
+![](/boat/13..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/14..png
+![](/boat/14..png)
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/15..png
+![](/boat/15..png)
