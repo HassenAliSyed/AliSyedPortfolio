@@ -1,7 +1,7 @@
  # AliSyedPortfolio
 
 ![](/Screenshot%202022-12-30%20at%2000.46.32.png)
-
+h
 # [Project 1: Regional departmental sales store recommendations](https://github.com/HassenAliSyed/AliSyedPortfolio)
 
 This is a project that I did during my internship
