@@ -1,6 +1,6 @@
  # AliSyedPortfolio
 
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.46.32.png
+![](https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.46.32.png)
 
 # [Project 1: Regional departmental sales store recommendations](https://github.com/HassenAliSyed/AliSyedPortfolio)
 
