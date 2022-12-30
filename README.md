@@ -29,6 +29,7 @@ https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%2020
 https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.47.10.png
 
 ![](/boat/6.png)
+https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/Screenshot%202022-12-30%20at%2000.47.18.png
 
 ![](/boat/7.png)
 
