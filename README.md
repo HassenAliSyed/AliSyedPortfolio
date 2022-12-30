@@ -72,3 +72,5 @@ https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/5..png
 https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/6..png
 
 https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/7..png
+
+https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/8..png
