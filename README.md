@@ -34,27 +34,24 @@ Show transactions where currency is US dollars
 
 
 Show transactions in 2020 join by date table
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/MA...png
-https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/MA.png
+![](/boat/MA...png)
+![](/boat/MA.png)
 
 
 Show total revenue in year 2020,
 
-![](/boat/7.png)
-![](/boat/7....png)
+![](/boat/nA...png)
+![](/boat/nA.png)
 
 Show total revenue in year 2020, January Month,
 
-![](/boat/8.png)
-![](/boat/8....png)
+![](/boat/mn.png)
+![](/boat/mn...png)
 
 Show total revenue in year 2020 in Chennai
 
 ![](/boat/9.png)
 ![](/boat/9....png)
-
-![](/boat/3.png)
-![](/boat/3....png)
 
 
 # [Project 2: Covid deaths by country](https://github.com/HassenAliSyed/AliSyedPortfolio)
