@@ -56,6 +56,11 @@ Show total revenue in year 2020 in Chennai
 
 # [Project 2: Covid deaths by country](https://github.com/HassenAliSyed/AliSyedPortfolio)
 
+
+Covid 19 Data Exploration 
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+
 ![](/boat/1..png)
 
 ![](/boat/2..png)
