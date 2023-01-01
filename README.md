@@ -27,8 +27,6 @@ Show distrinct product codes that were sold in chennai
 ![](/boat/add%20first.png)
 ![](/boat/add%20second.png)
 
-![](/boat/10.png)
-
 
 Show transactions where currency is US dollars
 ![](/boat/6.png)
