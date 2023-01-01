@@ -24,18 +24,17 @@ Show transactions for Chennai market (market code for chennai is Mark001
 
 
 Show distrinct product codes that were sold in chennai
-![](/boat/3.png)
-![](/boat/3....png)
+![](/boat/10.png)
+
 
 Show transactions where currency is US dollars
-
-![](/boat/5.png)
-![](/boat/5....png)
-
-Show transactions in 2020 join by date table
-
 ![](/boat/6.png)
 ![](/boat/6....png)
+
+
+Show transactions in 2020 join by date table
+![](/boat/5.png)
+![](/boat/5....png)
 
 Show total revenue in year 2020,
 
@@ -52,7 +51,8 @@ Show total revenue in year 2020 in Chennai
 ![](/boat/9.png)
 ![](/boat/9....png)
 
-![](/boat/10.png)
+![](/boat/3.png)
+![](/boat/3....png)
 
 
 # [Project 2: Covid deaths by country](https://github.com/HassenAliSyed/AliSyedPortfolio)
