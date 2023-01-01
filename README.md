@@ -24,6 +24,9 @@ Show transactions for Chennai market (market code for chennai is Mark001
 
 
 Show distrinct product codes that were sold in chennai
+![](/boat/add%20first.png)
+![](/boat/add%20second.png)
+
 ![](/boat/10.png)
 
 
