@@ -34,8 +34,9 @@ Show transactions where currency is US dollars
 
 
 Show transactions in 2020 join by date table
-![](/boat/5.png)
-![](/boat/5....png)
+https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/MA...png
+https://github.com/HassenAliSyed/AliSyedPortfolio/blob/main/boat/MA.png
+
 
 Show total revenue in year 2020,
 
