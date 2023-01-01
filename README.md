@@ -10,23 +10,22 @@ Data was given to me by infinite code
 
 Show all customer records
 
-![](/boat/1.png) 
-![](/boat/1....png)
-
-Show total number of customers
-
 ![](/boat/2.png)
 ![](/boat/2....png)
 
+
+Show total number of customers
+![](/boat/1.png) 
+![](/boat/1....png)
+
 Show transactions for Chennai market (market code for chennai is Mark001
-
-![](/boat/3.png)
-![](/boat/3....png)
-
-Show distrinct product codes that were sold in chennai
-
 ![](/boat/4.png)
 ![](/boat/4....png)
+
+
+Show distrinct product codes that were sold in chennai
+![](/boat/3.png)
+![](/boat/3....png)
 
 Show transactions where currency is US dollars
 
