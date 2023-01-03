@@ -37,7 +37,7 @@ Show transactions in 2020 join by date table
 
 Show total revenue in year 2020,
 
-![](/boat/nA.png)
+![](/boat/fINAL.png)
 ![](/boat/nA...png)
 
 Show total revenue in year 2020, January Month,
