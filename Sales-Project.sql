@@ -1,4 +1,4 @@
-Data Analysis Using SQL
+Data Analysis Using SQL Language
 
 Show all customer records
 
