@@ -6,6 +6,7 @@
 Skills used:  Data cleaning, ETL, Converting currency, Joins, Count fucntion,  SUM function , And & Or Clauses, Alias.
 
 Show all customer records
+
 ![](/boat/2.png)
 ![](/boat/2....png)
 
