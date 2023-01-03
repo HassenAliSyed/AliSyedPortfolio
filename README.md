@@ -6,7 +6,6 @@
 Skills used:  Data cleaning, ETL, Converting currency, Joins, Count fucntion,  SUM function , And & Or Clauses, Alias.
 
 Show all customer records
-
 ![](/boat/2.png)
 ![](/boat/2....png)
 
@@ -36,7 +35,6 @@ Show transactions in 2020 join by date table
 
 
 Show total revenue in year 2020,
-
 ![](/boat/fINAL.png)
 ![](/boat/nA...png)
 
@@ -45,7 +43,6 @@ Show total revenue in year 2020, January Month,
 ![](/boat/mn...png)
 
 Show total revenue in year 2020 in Chennai
-
 ![](/boat/9.png)
 ![](/boat/9....png)
 
