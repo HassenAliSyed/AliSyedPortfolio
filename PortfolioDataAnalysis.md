@@ -58,31 +58,46 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 
 
 ![](/boat/1..png)
+![](/boat/mm.png)
 
 ![](/boat/2..png)
+![](/boat/mmmm.png)
 
 ![](/boat/3..png)
+![](/boat/mmmmm.png)
 
 ![](/boat/4..png)
+![](/boat/mmmmmm.png)
 
 ![](/boat/5..png)
+![](/main/boat/mmmmmmm.png)
 
 ![](boat/6..png)
+![](/boat/mmmmmmmm.png)
 
 ![](boat/7..png)
+![](/boat/mmmmmmmmmm.png)
 
 ![](/boat/8..png)
+![](/boat/mmmmmmmmmmmmm.png)
 
 ![](/boat/9..png)
+![](/boat/nn.png)
 
 ![](/boat/10..png)
+![](/boat/nnnnnn.png)
 
 ![](/boat/11..png)
+![](/boat/nnnnnnnn.png)
 
 ![](/boat/12..png)
+![](/boat/nnnnnnnnnnnn.png)
 
 ![](/boat/13..png)
+![](/boat/nnnnnnnnnnnnn.png)
 
 ![](/boat/14..png)
+![](/boat/nnnnnnnnnnnnnn.png)
 
 ![](/boat/15..png)
+![](/boat/nnnnnnnnnnnnnnn.png)
