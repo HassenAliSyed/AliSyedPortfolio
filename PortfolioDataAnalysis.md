@@ -48,6 +48,7 @@ Show total revenue in year 2020 in Chennai
 ![](/boat/9....png)
 
 Tableau Dashboard
+![](/boat/Tableau%20dashboardSalesIn.png)
 
 ![](/boat/Tableau%20dashboardSalesIn.png)
 
