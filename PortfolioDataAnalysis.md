@@ -3,9 +3,9 @@
 # [Project 1: Regional departmental sales store recommendations](https://github.com/HassenAliSyed/AliSyedPortfolio)
 
 ## Overview of the SQL queries I used in the project
-Skills used:  Data cleaning, ETL, Converting currency, Joins, Count fucntion,  SUM function , And & Or Clauses, Alias.
+### Skills used:  Data cleaning, ETL, Converting currency, Joins, Count fucntion,  SUM function , And & Or Clauses, Alias.
 
-Show all customer records
+#### Show all customer records
 
 ![](/boat/2.png)
 ![](/boat/2....png)
@@ -47,7 +47,7 @@ Show total revenue in year 2020 in Chennai
 ![](/boat/9.png)
 ![](/boat/9....png)
 
-Tableau Dashboard
+##### Tableau Dashboard
 ![](/boat/Tableau%20dashboardSalesIn.png)
 
 # [Project 2: Covid deaths by country](https://github.com/HassenAliSyed/AliSyedPortfolio)
