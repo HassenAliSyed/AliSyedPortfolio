@@ -50,8 +50,6 @@ Show total revenue in year 2020 in Chennai
 Tableau Dashboard
 ![](/boat/Tableau%20dashboardSalesIn.png)
 
-![](/boat/Tableau%20dashboardSalesIn.png)
-
 # [Project 2: Covid deaths by country](https://github.com/HassenAliSyed/AliSyedPortfolio)
 
 
