@@ -57,11 +57,11 @@ Covid 19 Data Exploration
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 
-![](/boat/1..png)
-![](/boat/mm.png)
-
 ![](/boat/2..png)
 ![](/boat/mmmm.png)
+
+![](/boat/1..png)
+![](/boat/mm.png)
 
 ![](/boat/3..png)
 ![](/boat/mmmmm.png)
