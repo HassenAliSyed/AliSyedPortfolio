@@ -29,7 +29,7 @@ Show transactions where currency is US dollars
 ![](/boat/6.png)
 ![](/boat/6....png)
 
-
+-
 Show transactions in 2020 join by date table
 ![](/boat/MA...png)
 ![](/boat/MA.png)
@@ -77,7 +77,6 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 ![](/boat/mmmmmmmmmmmmm.png)
 
 ![](/boat/9..png)
-![](/boat/nn.png)
 
 ![](/boat/10..png)
 ![](/boat/nnnnnn.png)
@@ -89,10 +88,13 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 ![](/boat/nnnnnnnnnnnn.png)
 
 ![](/boat/13..png)
+![](/boat/nn.png)
+
 ![](/boat/nnnnnnnnnnnnn.png)
 
 ![](/boat/14..png)
-![](/boat/nnnnnnnnnnnnnn.png)
+![](/boat/nnnnnnnnnnnnnnn.png)
 
 ![](/boat/15..png)
-![](/boat/nnnnnnnnnnnnnnn.png)
+![](/boat/nnnnnnnnnnnnnn.png)
+
