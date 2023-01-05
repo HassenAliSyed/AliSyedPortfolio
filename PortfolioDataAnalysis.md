@@ -53,48 +53,33 @@ Show total revenue in year 2020 in Chennai
 Covid 19 Data Exploration 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-
 ![](/boat/2..png)
 ![](/boat/mmmm.png)
-
 ![](/boat/3..png)
 ![](/boat/mmmmm.png)
-
 ![](/boat/4..png)
 ![](/boat/mmmmmm.png)
-
 ![](boat/6..png)
 ![](/boat/mmmmmmmm.png)
-
 ![](boat/7..png)
 ![](/boat/mmmmmmmmmm.png)
-
 ![](/boat/8..png)
 ![](/boat/mmmmmmmmmmmmm.png)
-
 ![](/boat/9..png)
-
 ![](/boat/10..png)
 ![](/boat/Th.....png)
-
 ![](/boat/11..png)
 ![](/boat/nnnnnnnn.png)
-
 ![](/boat/12..png)
 ![](/boat/nnnnnnnnnnnn.png)
-
 ![](/boat/13..png)
 ![](/boat/nn.png)
-
 ![](/boat/nnnnnnnnnnnnn.png)
 ![](/boat/Thz.png)
-
 ![](/boat/14..png)
 ![](/boat/nnnnnnnnnnnnnnn.png)
-
 ![](/boat/15..png)
 ![](/boat/nnnnnnnnnnnnnn.png)
-
 #### Data Visualization
 ![](/boat/Screenshot%202023-01-05%20at%2012.01.52.png)
 
