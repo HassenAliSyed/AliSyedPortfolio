@@ -39,9 +39,6 @@ Show total revenue in year 2020,
 ![](/boat/fINAL.png)
 ![](/boat/nA...png)
 
-Show total revenue in year 2020, January Month,
-![](/boat/REV202OMINTH2.png)
-![](/boat/mn...png)
 
 Show total revenue in year 2020 in Chennai
 ![](/boat/9.png)
