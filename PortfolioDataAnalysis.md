@@ -75,7 +75,7 @@ Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, 
 ![](/boat/9..png)
 
 ![](/boat/10..png)
-![](/boat/Thz.png)
+![](/boat/Th.....png)
 
 ![](/boat/11..png)
 ![](/boat/nnnnnnnn.png)
